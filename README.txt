@@ -1,4 +1,4 @@
-# HashCode
+# HashCode 2019
 
 https://codingcompetitions.withgoogle.com/hashcode/
 
